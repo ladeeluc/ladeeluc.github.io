@@ -5,7 +5,7 @@ header-img: img/home-bg.png
 email: laura.hatch.lh@gmail.com
 copyright_name: Laura Hatch
 description: > # this means to ignore newlines until "baseurl:"
-  Flatiron - learning in the middle of  pandemic
+  Flatiron_learning in the middle of  pandemic
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: LauraHatch15
 github_username:  ladeeluc
